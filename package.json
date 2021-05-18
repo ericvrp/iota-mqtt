@@ -1,0 +1,23 @@
+{
+  "name": "iota-mqtt",
+  "version": "1.0.0",
+  "description": "Find out why MQTT from NodeJS stops after a while",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericvrp/iota-mqtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericvrp/iota-mqtt/issues"
+  },
+  "homepage": "https://github.com/ericvrp/iota-mqtt#readme",
+  "dependencies": {
+    "@iota/client": "^0.4.0"
+  }
+}
